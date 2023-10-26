@@ -1,4 +1,4 @@
-# trigonometric-circle.github.io
+# trigonometric-circle
 show trigonometric circle with animation
 
 [Online demo](https://code-irans.github.io/trigonometric-circle/trigonometric_circle.html)
